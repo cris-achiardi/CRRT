@@ -5,7 +5,6 @@
 # Re-enable any group when deploying the reviewer dashboard or share links.
 api/comments.ts
 api/v1/comments/**
-api/v1/feedback-shares/**
 api/v1/invites/**
 api/v1/notifications/**
 api/v1/projects/**
