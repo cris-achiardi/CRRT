@@ -1,0 +1,13 @@
+# Don't deploy colocated tests as Serverless Functions
+**/*.test.ts
+
+# Routes not called by the portfolio widget (Hobby plan: 12-function cap)
+# Re-enable any group when deploying the reviewer dashboard or share links.
+api/comments.ts
+api/v1/agent/**
+api/v1/comments/**
+api/v1/feedback-shares/**
+api/v1/invites/**
+api/v1/notifications/**
+api/v1/projects/**
+api/v1/shares/**
