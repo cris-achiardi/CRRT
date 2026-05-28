@@ -4,7 +4,6 @@
 # Routes not called by the portfolio widget (Hobby plan: 12-function cap)
 # Re-enable any group when deploying the reviewer dashboard or share links.
 api/comments.ts
-api/v1/agent/**
 api/v1/comments/**
 api/v1/feedback-shares/**
 api/v1/invites/**
