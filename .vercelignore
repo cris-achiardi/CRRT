@@ -8,4 +8,3 @@ api/v1/comments/**
 api/v1/invites/**
 api/v1/notifications/**
 api/v1/projects/**
-api/v1/shares/**
